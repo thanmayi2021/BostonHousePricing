@@ -107,6 +107,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+boston/
 env.bak/
 venv.bak/
 
@@ -127,3 +128,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Added by thanmayi
+
+.idea/
